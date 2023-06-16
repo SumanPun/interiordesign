@@ -1,6 +1,0 @@
-about and contact page:
-contact:
-    name,email,phone and description
-
-
-display: flex; should always in parent to see changes in child display flex 
